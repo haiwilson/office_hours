@@ -21,7 +21,7 @@ Sub frmMain
   GraphicsWindow.CanResize = 0
   GraphicsWindow.Width = 400
   GraphicsWindow.Height = 350
-  GraphicsWindow.Title = "Office Hour"
+  GraphicsWindow.Title = "Office Hours"
   GraphicsWindow.BackgroundColor = GraphicsWindow.GetColorFromRGB(240, 240, 240)
   GraphicsWindow.FontBold = "False"
   GraphicsWindow.BrushColor = "Black"
